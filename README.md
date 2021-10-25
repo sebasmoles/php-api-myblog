@@ -7,10 +7,10 @@
 
 Import the myblog.sql file, change the DB params in the config/Database.php file to your own
 
-### Version
+## Version
 
 1.0.0
 
-### License
+## License
 
 This project is licensed under the MIT License
